@@ -9,7 +9,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 https://raw.githubusercontent.com/CasioRolex/VIPTV-MY-/main/M_3_U_8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="106" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/CasioRolex/VIPTV-MY-/main/L_O_G_O/TV6.png" group-title="RTM",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-chno="107" tvg-id="147" tvg-name="DidikTV KPM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="PRIMA",DidikTV KPM
+#EXTINF:-1 tvg-chno="107" tvg-id="147" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="PRIMA",DidikTV KPM
 https://raw.githubusercontent.com/CasioRolex/VIPTV-MY-/main/M_3_U_8/DidikTVKPM.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="108" tvg-name="8TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="PRIMA",8TV
 https://raw.githubusercontent.com/CasioRolex/VIPTV-MY-/main/M_3_U_8/8TV.m3u8
@@ -17,9 +17,9 @@ https://raw.githubusercontent.com/CasioRolex/VIPTV-MY-/main/M_3_U_8/8TV.m3u8
 https://raw.githubusercontent.com/CasioRolex/VIPTV-MY-/main/M_3_U_8/TV9.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="110" tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="RTM",TV Okey
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-#EXTINF:-1 tvg-chno="111" tvg-id="RTMK05" tvg-name="SUKAN RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="RTM",Sukan RTM
+#EXTINF:-1 tvg-chno="111" tvg-id="RTMK05" tvg-name="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="RTM",Sukan RTM
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 tvg-chno="114" tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/584px-Logo_of_the_TV_Alhijrah.svg.png" group-title="PRIMA",TV Alhijrah
+#EXTINF:-1 tvg-chno="114" tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/584px-Logo_of_the_TV_Alhijrah.svg.png" group-title="PRIMA",TV Alhijrah
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 #EXTINF:-1 tvg-chno="123" tvg-id="123" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Berita_RTM_v2.png" group-title="RTM",Berita RTM
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
