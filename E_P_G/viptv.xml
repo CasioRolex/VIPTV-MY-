@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTM06">
+    <display-name lang="en">BERITA RTM</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM08">
+    <display-name lang="en">DEWAN NEGARA</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM07">
+    <display-name lang="en">DEWAN RAKYAT</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM05">
+    <display-name lang="en">SUKAN RTM</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM04">
+    <display-name lang="en">TV Okey</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM01">
+    <display-name lang="en">TV1</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM02">
+    <display-name lang="en">TV2</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="RTM03">
+    <display-name lang="en">TV6</display-name>
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+</tv>
